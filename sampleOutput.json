@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The New Yorker" },
+      "author": "Simon Webster",
+      "title": "Understanding the Laws of Cricket",
+      "description": "My hope is that these brief and straightforward instructions will bring legions of new fans into the British Empire—I mean, global cricket family.",
+      "url": "https://www.newyorker.com/humor/daily-shouts/understanding-the-laws-of-cricket",
+      "urlToImage": "https://media.newyorker.com/photos/6579d39668872af306a7c711/16:9/w_1280,c_limit/Webster-Shouts-Cricket.jpg",
+      "publishedAt": "2023-12-14T11:00:00Z",
+      "content": "Cricket is the second most popular sport in the world, with some two and a half billion fans globally, including several Americans. And theres always room for more, which is why Ive prepared this sho… [+4172 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Wikipedia Readers Were Thinking About AI and Atom Bombs in 2023",
+      "description": "If you want to know what average online folks are trying to learn about, then perhaps the total view counts on Wikipedia might offer us a glimpse into what most people want to learn about. If the top 25 most-viewed Wikipedia articles of 2023 are anything to g…",
+      "url": "https://gizmodo.com/wikipedia-readers-2023-chatgpt-atom-bombs-oppenheimer-1851070502",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a15967119d80fa80a835f3164e2fefba.jpg",
+      "publishedAt": "2023-12-05T12:00:00Z",
+      "content": "If you want to know what average online folks are trying to learn about, then perhaps the total view counts on Wikipedia might offer us a glimpse into what most people want to learn about. If the top… [+2400 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Graeme Hanna",
+      "title": "Most viewed Wikipedia page in 2023 is..ChatGPT",
+      "description": "The Wikimedia Foundation has revealed the 25 most-read articles on English Wikipedia this year with ChatGPT comfortably in the number […]\nThe post Most viewed Wikipedia page in 2023 is..ChatGPT appeared first on ReadWrite.",
+      "url": "https://readwrite.com/most-viewed-wikipedia-page-in-2023-is-chatgpt/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/Amended-ChatGPT-terms.jpg",
+      "publishedAt": "2023-12-06T13:30:09Z",
+      "content": "The Wikimedia Foundation has revealed the 25 most-read articles on English Wikipedia this year with ChatGPT comfortably in the number one spot.\r\nJust over one year since its launch, ChatGPT  – and ar… [+2629 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "WYATTE GRANTHAM-PHILIPS AP business writer",
+      "title": "Wikipedia, wrapped: 2023's most-viewed articles on the internet's encyclopedia",
+      "description": "Remember what you searched for in 2023",
+      "url": "https://abcnews.go.com/Business/wireStory/wikipedia-wrapped-2023s-viewed-articles-internets-encyclopedia-105381574",
+      "urlToImage": "https://i.abcnewsfe.com/a/7eab6a1c-962c-419f-a36a-c5d487e901c3/wirestory_a0e742df4e00c30c063d0c2505c126e5_16x9.jpg?w=992",
+      "publishedAt": "2023-12-05T13:34:47Z",
+      "content": "NEW YORK -- Remember what you searched for in 2023? Well, Wikipedia has the receipts.\r\nEnglish Wikipedia raked in more than 84 billion views this year, according to numbers released Tuesday by the Wi… [+2665 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Usman Khawaja: Cricket Australia warns batter against making Gaza message",
+      "description": "The Australian batter had planned to wear shoes bearing the words \"all lives are equal\" during a Test.",
+      "url": "https://www.bbc.co.uk/news/world-australia-67700408",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE29/production/_132037865_gettyimages-1846372164.jpg",
+      "publishedAt": "2023-12-13T05:12:15Z",
+      "content": "Australian cricketer Usman Khawaja has been warned against showing an on-field message in support of Palestinians at a Test match against Pakistan.\r\nThe batter had planned to wear shoes bearing the w… [+1424 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Lions to play in Ireland for first time in 2025",
+      "description": "The British and Irish Lions will play in Ireland for the first time in 2025 when they face Argentina at the Aviva Stadium in Dublin ahead of their tour to Australia.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/67647267",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7B1A/production/_131741513_gettyimages-805230624.jpg",
+      "publishedAt": "2023-12-07T12:01:19Z",
+      "content": "The Aviva Stadium in Dublin will host the meeting of the Lions and Argentina in June 2025\r\nThe British and Irish Lions will play in Ireland for the first time in 2025 when they face Argentina in Dubl… [+2825 chars]"
+    }
+  ]
+}
