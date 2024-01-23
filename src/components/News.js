@@ -45,7 +45,6 @@ export class News extends Component {
         let parsedUrl = await data.json();
         this.props.setProgress(80);
         console.log(parsedUrl)
-        console.log("Hi laudi billya")
               this.setState({
             articles:parsedUrl.articles,
             totalResults:parsedUrl.totalResults,
